@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/RohaanImKhan/rohantest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<title>ROHAN IMRAN KHAN</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<header>
+    <nav>
 
-### Markdown
+    </nav>
+<header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <div>
+        <h1>ROHAN IMRAN KHAN</h1>
+        <h2>ROHAN IMRAN KHAN</h2>
+        <h3>ROHAN IMRAN KHAN</h3>
+        <h4>ROHAN IMRAN KHAN</h4>
+        <h5>ROHAN IMRAN KHAN</h5>
+        <h6>ROHAN IMRAN KHAN</h6>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa distinctio assumenda excepturi officia ex ut veniam dolorem aspernatur expedita doloremque impedit sequi qui, dolores dolore, quae odit nisi veritatis soluta.&copy;</p>
+    </div>
+     
+    <footer>
 
-```markdown
-Syntax highlighted code block
+    </footer>
 
-# Header 1
-## Header 2
-### Header 3
+    <p>a<sup>2</sup> + 2ab + b<sup>2</sup></p>
 
-- Bulleted
-- List
+            <p>C<sub>2</sub>SO<sub>4</sub></p>
+       
+        </section>
 
-1. Numbered
-2. List
+        <footer>
+            This is a test. &copy;
+        </footer>
+        
+         <p><b>Unordered List</b></p>
 
-**Bold** and _Italic_ and `Code` text
+        <ul>
+            <li>Apple.</li>
+            <li>Mango.</li>
+            <li>Lime.</li>
+            <li>Orange.</li>
+        </ul>
 
-[Link](url) and ![Image](src)
-```
+        <p><b>Ordered List</b></p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+        <ol>
+            <li>Red.</li>
+            <li>Blue.</li>
+            <li>Green.</li>
+            <li>Indigo.</li>
+            <li>Yellow.</li>
+        </ol>
+        
+         <dl>
+            <h2><dt><b>MYSQL:</b></dt><h2></h2>
+            <dd>MySQL Database Service is a fully managed database service to deploy <mark>cloud-native applications</mark> using the world's most popular open source database.</dd>
+        </dl>
 
-### Jekyll Themes
+        <ul>
+            <li><a href="index.html">Home</a>></a></li>
+            <li><a href="portfolio.html">Portfolio</a>></a></li>
+            <li><a href="about.html">About</a>></a></li>
+        </ul>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RohaanImKhan/rohantest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+    </body>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
